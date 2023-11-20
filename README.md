@@ -3,7 +3,6 @@
 - Sou estudante de Ciência da Computação, na UNIP. Estou no 4° semestre.
 <div> 
   <a href="https://github.com/iamcarolzica">
-  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=iamcarolzica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarolzica&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
