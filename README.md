@@ -1,6 +1,5 @@
 ### Olá!, eu sou a Ana Carolina e tenho 19 anos 👋
-- Estou atualmente trabalhando como estagiária de TI em uma distribuidora de suprimentos médicos-hospitalares, mas estou em busca de outras oportunidades, oportunidades que consigo ter acesso com programação. 👩🏾‍💻
-- Sou estudante de Ciência da Computação, na UNIP. Estou no 4° semestre.
+- Sou estudante de Ciência da Computação, na UNIP. Estou no 5° semestre.
 <div> 
   <a href="https://github.com/iamcarolzica">
   <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarolzica&layout=compact&langs_count=16&theme=dracula"/>
