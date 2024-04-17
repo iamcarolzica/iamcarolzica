@@ -1,4 +1,4 @@
-### Olá!, eu sou a Ana Carolina e tenho 19 anos 👋
+### Olá!, eu sou a Ana Carolina e tenho 20 anos 👋
 - Sou estudante de Ciência da Computação, na UNIP. Estou no 5° semestre.
 <div> 
   <a href="https://github.com/iamcarolzica">
