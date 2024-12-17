@@ -1,5 +1,5 @@
 ### Olá!, eu sou a Ana Carolina e tenho 20 anos 👋
-- Sou estudante de Ciência da Computação, na UNIP. Estou no 5° semestre.
+- Sou estudante de Ciência da Computação, na UNIP. Estou no 6° semestre.
 <div> 
   <a href="https://github.com/iamcarolzica">
   <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarolzica&layout=compact&langs_count=16&theme=dracula"/>
